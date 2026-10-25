@@ -1,3 +1,3 @@
-# Aion 2 · Guía de Clérigo
+# Aion 2 · Guía de BlackCrown
 
-Checklist de progreso, rotación y meeting de clérigos.
+Guía del gremio (Clérigo y Ranger) con progreso, rotación, stigmas, posicionamiento, documento del meeting y un asistente animado. Documentación del personaje en `docs/AVATAR.md`.
